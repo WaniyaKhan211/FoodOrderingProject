@@ -1,0 +1,5 @@
+﻿CREATE TABLE CATEGORY
+(
+catID INT PRIMARY KEY IDENTITY,
+catName nvarchar(50)
+)
